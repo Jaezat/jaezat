@@ -24,4 +24,4 @@ Linux • Git • SSH • Firewalls • System Administration
 ---
 
 ## Reach Me
-You can find me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/](https://www.linkedin.com/in/jazmin-acosta-132374304/)) or reach me at **jaezatc@gmail.com**.
+You can find me on [LinkedIn](https://www.linkedin.com/in/jazmin-acosta-132374304/) or reach me at **jaezatc@gmail.com**.
