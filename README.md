@@ -10,7 +10,7 @@ I'm a student at **École 42**, exploring software development through hands-on,
 - Working on Minishell, a minimalist Unix shell project from 42, learning command parsing, process management, and basic shell features.
 - Learning low-level programming and algorithmic thinking.
 - Strengthening my Linux and system administration skills.
-- Building confidence in backend and DevOps fundamentals
+- Building confidence in backend and DevOps fundamentals.
 
 ---
 
