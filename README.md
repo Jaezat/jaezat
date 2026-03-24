@@ -7,7 +7,7 @@ I'm a student at **École 42** exploring software development through hands-on, 
 ---
 
 ## What I’m Doing Now
-- Working on Minishell: a minimalist Unix shell project from 42, learning command parsing, process management and basic shell features.
+- Working on Philosophers: a project that highlights the importance of designing protocols that can handle concurrent access to shared resources without causing deadlocks or other issues.
 - Learning low-level programming and algorithmic thinking.
 - Strengthening my Linux and system administration skills.
 - Building confidence in backend and DevOps fundamentals.
