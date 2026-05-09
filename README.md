@@ -9,7 +9,7 @@ I'm a student at **École 42** exploring software development through hands-on, 
 ## What I’m Doing Now
 - Learning low-level programming and algorithmic thinking.
 - Strengthening my Linux and system administration skills.
-- Working on a team project that aims to create a dynamic view inside a 3D maze. 
+- Working on a 3D game project created in C, implementing ray casting to render a simple first-person view.
 
 ---
 
